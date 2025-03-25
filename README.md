@@ -13,5 +13,5 @@ HTML5
 
 CSS3
 
-O projeto pode ser acessado em: https://github.com/seu-usuario/b7-burguer.git
+O projeto pode ser acessado em: https://yvasques.github.io/burguer_responsiveWebsite/
    
